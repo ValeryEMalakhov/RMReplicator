@@ -9,6 +9,7 @@ target
 bin/
 /db
 .eclipse
+.bsp
 /lib/
 /logs/
 /project/target
